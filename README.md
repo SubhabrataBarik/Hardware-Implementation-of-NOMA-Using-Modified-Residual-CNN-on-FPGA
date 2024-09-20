@@ -1,10 +1,15 @@
-# Hardware-Implementation-of-NOMA-Using-Modified-Residual-CNN-on-FPGA
-NOMA system in Verilog, focusing on modulation classification using CNN models
-Developed a digital VLSI architecture and FPGA implementation of a Non-Orthogonal Multiple Access
-(NOMA) system using a Modified Residual-CNN.
-This project addresses the challenges in future 6G networks, aiming to improve spectral efficiency, data
-rates, and energy efficiency.
-The proposed solution automates modulation classification (AMC) in NOMA systems, allowing for real-
-time AMC hardware implementation, reducing system overhead, and enhancing performance through
-successive interference cancellation (SIC).
-This work demonstrates a novel hardware approach to a traditionally software-dominated field.
+Title: Digital VLSI Architecture Design and FPGA implementation of a Non-orthogonal Multiple Access System using a Modified Residual-CNN 
+
+Hardware Platform:  Microchip Technology’s RISC-V-based PolarFire® SoC Icicle Kit.
+
+Abstract—It is foreseen that the number of mobile users and internet-enabled devices will surge dramatically.This growth will strain the capacity of current 4G and 5G networks. To meet future demands, 6G technology is being developed globally. It aims to provide significantly higher data rates (1 terabit per second), lower latency (0.01 to 0.1 milliseconds), greater connectivity density (10 times higher than 5G), higher spectral efficiency (5-10 times higher than 5G), and improved energy efficiency compared to 5G.Non-orthogonal multiple access (NOMA), a new technology, allows multiple users to share the same resources, boosting efficiency. However, users need to "decode" each other's signals. Automatic modulation classification (AMC) helps with this decoding by identifying the type of modulation used (e.g., BPSK, QPSK) in the received signal. Traditional methods like those for single-user scenarios aren't suitable for NOMA due to interference.Research is focusing on Deep Learning (DL)-based methods for NOMA AMC. These methods automatically extract features from the signal and can potentially achieve better accuracy than traditional approaches. However, currently, there's limited research on DL-based AMC specifically for NOMA systems.The current state-of-the-art presents a number of software implementations for NOMA-AMC. To the best of our knowledge, there are no dedicated hardware implementations for NOMA-AMC. Therefore, in this design contest, we propose to design the digital VLSI architecture and carry out its FPGA implementation for a NOMA system.
+
+The complexity of modulation classification increases with the number of users, but the underlying principle remains the same. For simplicity, we limit the analysis to two users. The far user treats the near user's signal as noise, while the near user uses successive interference cancellation (SIC) to cancel the far user's signal. Codeword-level interference cancellation (CWIC) is a popular form of SIC. It requires the modulation type of the far user's signal. To perform SIC, the far user's signal needs to be regenerated, which requires the near user to know its modulation type. Traditionally, this information is sent via signaling, adding overhead to the system. AMC offers a potential solution by automatically determining the modulation type, reducing overhead and attracting significant research interest.While the literature is growing with software implementations of AMC for NOMA, there is a lack of reported hardware implementations. This work aims to design a digital VLSI architecture and implement it on an FPGA for AMC in a NOMA system using a modified residual CNN. A software implementation for this work has been reported in [3]. In this design contest, we aim to achieve a hardware implementation for the same and demonstrate real-time AMC implementation on the FPGA board.
+
+Benefits and Value addition: This implementation idea has many technical benefits and value addition at different levels and it is described as below:
+At system level: i) The AMC reduces the overhead by eliminating the need for explicit signaling to convey modulation information, the system can achieve higher spectral efficiency.
+ii) By enabling more efficient resource allocation, AMC can potentially reduce latency for time-sensitive applications.
+At Technical level:  The hardware implementation of AMC will contribute to the development of more efficient and practical NOMA systems, which have the potential to improve wireless communication performance.
+Potential Commercial Applications : 
+Next-Generation Wireless Networks: The proposed AMC solution could be integrated into future-generation wireless networks, such as 6G, to enhance their capabilities. 	
+IoT and Industrial Applications: NOMA systems with efficient AMC could be used in various IoT and industrial applications that require reliable and high-speed communication.
