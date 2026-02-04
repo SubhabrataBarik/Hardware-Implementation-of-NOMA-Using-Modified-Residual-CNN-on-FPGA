@@ -1,0 +1,31 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/Convolution_test_1_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Convolution_test_1_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/Convolution_test_1_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Convolution_test_1_tb
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'Convolution_test_1_tb' [C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/Convolution_test_1_tb.v:6]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/Avg_Pool_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Avg_Pool_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/Avg_Pool_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Avg_Pool_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/Convolution_test_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Convolution_test_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/Convolution_test_16.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Convolution_test_16
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/Convolution_test_32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Convolution_test_32
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/Convolution_test_8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Convolution_test_8
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/MRB_Buttom.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MRB_Buttom
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/MRB_Buttom_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MRB_Buttom_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/MRB_Top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MRB_Top
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/MRB_Top_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MRB_Top_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/Modified_Residual_Block..v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Modified_Residual_Block
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/Modified_Residual_Block_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Modified_Residual_Block_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/top_cnn.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_cnn
