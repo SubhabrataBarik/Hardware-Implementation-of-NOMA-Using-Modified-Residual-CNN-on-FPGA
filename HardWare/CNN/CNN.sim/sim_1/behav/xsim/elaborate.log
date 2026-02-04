@@ -1,0 +1,32 @@
+Vivado Simulator v2023.2
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: D:/Vivado/2023.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot Convolution_test_1_tb_behav xil_defaultlib.Convolution_test_1_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 1 for port 'reset' [C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/Convolution_test_1_tb.v:195]
+WARNING: [VRFC 10-3091] actual bit length 103424 differs from formal bit length 51712 for port 'matrix' [C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/Modified_Residual_Block_2.v:35]
+WARNING: [VRFC 10-3091] actual bit length 99840 differs from formal bit length 49920 for port 'matrix' [C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/Modified_Residual_Block_2.v:43]
+WARNING: [VRFC 10-3129] assignment to input 'count' [C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/top_cnn.v:138]
+WARNING: [VRFC 10-3129] assignment to input 'count' [C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/top_cnn.v:148]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.Convolution_test_1_default
+Compiling module xil_defaultlib.Convolution_test_32_default
+Compiling module xil_defaultlib.MRB_Top_default
+Compiling module xil_defaultlib.MRB_Buttom_default
+Compiling module xil_defaultlib.Modified_Residual_Block_default
+Compiling module xil_defaultlib.Avg_Pool_1_default
+Compiling module xil_defaultlib.Convolution_test_16_default
+Compiling module xil_defaultlib.MRB_Top_2_default
+Compiling module xil_defaultlib.MRB_Buttom_2_default
+Compiling module xil_defaultlib.Modified_Residual_Block_2_defaul...
+Compiling module xil_defaultlib.Avg_Pool_2_default
+Compiling module xil_defaultlib.Convolution_test_8_default
+Compiling module xil_defaultlib.top_cnn_default
+Compiling module xil_defaultlib.Convolution_test_1_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot Convolution_test_1_tb_behav

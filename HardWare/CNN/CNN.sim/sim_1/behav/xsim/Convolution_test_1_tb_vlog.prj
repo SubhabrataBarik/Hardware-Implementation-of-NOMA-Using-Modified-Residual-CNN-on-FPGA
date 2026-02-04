@@ -1,0 +1,22 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib "C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/Convolution_test_1_tb.v" \
+"../../../../CNN.srcs/sources_1/new/Convolution_test_1_tb.v" \
+"../../../../CNN.srcs/sources_1/new/Avg_Pool_1.v" \
+"../../../../CNN.srcs/sources_1/new/Avg_Pool_2.v" \
+"../../../../CNN.srcs/sources_1/new/Convolution_test_1.v" \
+"../../../../CNN.srcs/sources_1/new/Convolution_test_16.v" \
+"../../../../CNN.srcs/sources_1/new/Convolution_test_32.v" \
+"../../../../CNN.srcs/sources_1/new/Convolution_test_8.v" \
+"../../../../CNN.srcs/sources_1/new/MRB_Buttom.v" \
+"../../../../CNN.srcs/sources_1/new/MRB_Buttom_2.v" \
+"../../../../CNN.srcs/sources_1/new/MRB_Top.v" \
+"../../../../CNN.srcs/sources_1/new/MRB_Top_2.v" \
+"../../../../CNN.srcs/sources_1/new/Modified_Residual_Block..v" \
+"../../../../CNN.srcs/sources_1/new/Modified_Residual_Block_2.v" \
+"../../../../../top_cnn.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,20 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.sim/sim_1/behav/xsim/glbl.v,1732199323,verilog,,,,glbl,,,,,,,,
+C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/Avg_Pool_1.v,1746447542,verilog,,C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/Avg_Pool_2.v,,Avg_Pool_1,,,,,,,,
+C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/Avg_Pool_2.v,1746464928,verilog,,C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/Convolution_test_1.v,,Avg_Pool_2,,,,,,,,
+C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/Convolution_test_1.v,1746601944,verilog,,C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/Convolution_test_16.v,,Convolution_test_1,,,,,,,,
+C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/Convolution_test_16.v,1746449155,verilog,,C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/Convolution_test_32.v,,Convolution_test_16,,,,,,,,
+C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/Convolution_test_1_tb.v,1746535997,verilog,,C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/Convolution_test_1_tb.v,,Convolution_test_1_tb,,,,,,,,
+C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/Convolution_test_32.v,1746465982,verilog,,C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/Convolution_test_8.v,,Convolution_test_32,,,,,,,,
+C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/Convolution_test_8.v,1746464937,verilog,,C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/MRB_Buttom.v,,Convolution_test_8,,,,,,,,
+C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/MRB_Buttom.v,1746447528,verilog,,C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/MRB_Buttom_2.v,,MRB_Buttom,,,,,,,,
+C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/MRB_Buttom_2.v,1746464912,verilog,,C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/MRB_Top.v,,MRB_Buttom_2,,,,,,,,
+C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/MRB_Top.v,1746447424,verilog,,C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/MRB_Top_2.v,,MRB_Top,,,,,,,,
+C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/MRB_Top_2.v,1746447597,verilog,,C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/Modified_Residual_Block..v,,MRB_Top_2,,,,,,,,
+C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/Modified_Residual_Block..v,1746465036,verilog,,C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/Modified_Residual_Block_2.v,,Modified_Residual_Block,,,,,,,,
+C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/Modified_Residual_Block_2.v,1746106862,verilog,,C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/top_cnn.v,,Modified_Residual_Block_2,,,,,,,,
+C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/CNN/CNN.srcs/sources_1/new/Top_MR_CNN.v,1741330413,verilog,,,,Top_MR_CNN,,,,,,,,
+C:/Users/debab/Desktop/IIT+SELF LEARNING/IIT CLASS/BTP/HardWare/top_cnn.v,1746434940,verilog,,,,top_cnn,,,,,,,,
